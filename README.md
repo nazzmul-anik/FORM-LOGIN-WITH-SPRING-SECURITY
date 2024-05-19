@@ -12,6 +12,8 @@
 * <b>SPRING DATA JPA</b> <br>
 * <b>LOMBOK</b> <br>
 * <b>REST - API</b> <br>
+* <b>REST CONTROLLER</b> <br>
+
 
   <h1>DATABASE</h1>
 * <b>SQL</b>
